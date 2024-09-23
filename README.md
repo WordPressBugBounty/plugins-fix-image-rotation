@@ -1,0 +1,1 @@
+# plugins-fix-image-rotation
